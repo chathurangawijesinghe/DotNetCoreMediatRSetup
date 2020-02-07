@@ -5,3 +5,4 @@ C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\
 C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Application\bin\Debug\netcoreapp3.0\Kaddis.Framework.Core.Application.pdb
 C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Application\obj\Debug\netcoreapp3.0\Kaddis.Framework.Core.Application.dll
 C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Application\obj\Debug\netcoreapp3.0\Kaddis.Framework.Core.Application.pdb
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Application\obj\Debug\netcoreapp3.0\Kaddis.Framework.Core.Application.csprojAssemblyReference.cache
