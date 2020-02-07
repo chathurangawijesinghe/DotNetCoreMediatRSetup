@@ -1,8 +1,0 @@
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Domain\bin\Debug\netcoreapp3.0\Kaddis.Framework.Core.Domain.deps.json
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Domain\bin\Debug\netcoreapp3.0\Kaddis.Framework.Core.Domain.dll
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Domain\bin\Debug\netcoreapp3.0\Kaddis.Framework.Core.Domain.pdb
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Domain\obj\Debug\netcoreapp3.0\Kaddis.Framework.Core.Domain.csprojAssemblyReference.cache
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Domain\obj\Debug\netcoreapp3.0\Kaddis.Framework.Core.Domain.AssemblyInfoInputs.cache
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Domain\obj\Debug\netcoreapp3.0\Kaddis.Framework.Core.Domain.AssemblyInfo.cs
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Domain\obj\Debug\netcoreapp3.0\Kaddis.Framework.Core.Domain.dll
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DotNetCoreMediatRSetup\Kaddis.Framework.Core.Domain\obj\Debug\netcoreapp3.0\Kaddis.Framework.Core.Domain.pdb
